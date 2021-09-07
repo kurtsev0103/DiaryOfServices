@@ -1,4 +1,4 @@
-# diaryOfServices
+# DiaryOfServices
 App for keeping a journal, for writing clients for different services.
 
 If you work in the service industry, this application can be useful for you. You can add new entries and easily follow them.
@@ -22,3 +22,5 @@ This screen is very simple (similar to a notebook). He just keeps in himself the
 ![5](https://user-images.githubusercontent.com/27446881/30241581-69666ee4-9586-11e7-9dc8-40821698df22.jpeg)
 ![6](https://user-images.githubusercontent.com/27446881/30241583-69680650-9586-11e7-9de0-cd79afc3794a.jpeg)
 ![7](https://user-images.githubusercontent.com/27446881/30241582-6967555c-9586-11e7-9890-9db7ca2abe96.jpeg)
+
+## Created by Oleksandr Kurtsev (Copyright © 2021) [LICENSE](https://github.com/kurtsev0103/DiaryOfServices/blob/master/LICENSE)
